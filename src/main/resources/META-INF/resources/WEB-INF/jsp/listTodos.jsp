@@ -3,12 +3,12 @@
 <HTML>
 
 <head>
-    <title>List Todos page</title>
+    <title>List Todo's page</title>
 </head>
 <body>
     <div>welcome ${name}</div>
     <hr>
-    <h1>Your Todos</h1>
+    <h1>Your Todo's</h1>
     <hr>
     <table>
 	    <thead>
