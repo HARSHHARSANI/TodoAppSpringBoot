@@ -27,4 +27,10 @@ public class TodoController {
 		model.addAttribute("todos", todos);	
 		return "listTodos";
 	}
+		
+	@RequestMapping("add-todo")
+	public String ShowNewTodoPage() {
+
+	return "todo";
+	}
 }
