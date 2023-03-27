@@ -11,7 +11,7 @@
 </head>
 <body>
     <div class="container">
-		    <h1>Your Todo's</h1>
+		    <h1>Your Todo's Are</h1>
 		    <hr>
 		    <table class="table">
 			    <thead>
